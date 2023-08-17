@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MYRIDE_HW_2__File_Modification_
+build_property.ProjectDir = D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\HomeWorks\MYRIDE_HW_2 (File Modification)\MYRIDE_HW_2 (File Modification)\

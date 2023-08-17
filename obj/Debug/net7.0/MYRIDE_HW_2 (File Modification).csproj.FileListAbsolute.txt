@@ -1,0 +1,15 @@
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\HomeWorks\MYRIDE_HW_2 (File Modification)\MYRIDE_HW_2 (File Modification)\obj\Debug\net7.0\MYRIDE_HW_2 (File Modification).csproj.AssemblyReference.cache
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\HomeWorks\MYRIDE_HW_2 (File Modification)\MYRIDE_HW_2 (File Modification)\obj\Debug\net7.0\MYRIDE_HW_2 (File Modification).GeneratedMSBuildEditorConfig.editorconfig
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\HomeWorks\MYRIDE_HW_2 (File Modification)\MYRIDE_HW_2 (File Modification)\obj\Debug\net7.0\MYRIDE_HW_2 (File Modification).AssemblyInfoInputs.cache
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\HomeWorks\MYRIDE_HW_2 (File Modification)\MYRIDE_HW_2 (File Modification)\obj\Debug\net7.0\MYRIDE_HW_2 (File Modification).AssemblyInfo.cs
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\HomeWorks\MYRIDE_HW_2 (File Modification)\MYRIDE_HW_2 (File Modification)\obj\Debug\net7.0\MYRIDE_HW_2 (File Modification).csproj.CoreCompileInputs.cache
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\HomeWorks\MYRIDE_HW_2 (File Modification)\MYRIDE_HW_2 (File Modification)\bin\Debug\net7.0\MYRIDE_HW_2 (File Modification).exe
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\HomeWorks\MYRIDE_HW_2 (File Modification)\MYRIDE_HW_2 (File Modification)\bin\Debug\net7.0\MYRIDE_HW_2 (File Modification).deps.json
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\HomeWorks\MYRIDE_HW_2 (File Modification)\MYRIDE_HW_2 (File Modification)\bin\Debug\net7.0\MYRIDE_HW_2 (File Modification).runtimeconfig.json
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\HomeWorks\MYRIDE_HW_2 (File Modification)\MYRIDE_HW_2 (File Modification)\bin\Debug\net7.0\MYRIDE_HW_2 (File Modification).dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\HomeWorks\MYRIDE_HW_2 (File Modification)\MYRIDE_HW_2 (File Modification)\bin\Debug\net7.0\MYRIDE_HW_2 (File Modification).pdb
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\HomeWorks\MYRIDE_HW_2 (File Modification)\MYRIDE_HW_2 (File Modification)\obj\Debug\net7.0\MYRIDE_HW_2 (File Modification).dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\HomeWorks\MYRIDE_HW_2 (File Modification)\MYRIDE_HW_2 (File Modification)\obj\Debug\net7.0\refint\MYRIDE_HW_2 (File Modification).dll
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\HomeWorks\MYRIDE_HW_2 (File Modification)\MYRIDE_HW_2 (File Modification)\obj\Debug\net7.0\MYRIDE_HW_2 (File Modification).pdb
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\HomeWorks\MYRIDE_HW_2 (File Modification)\MYRIDE_HW_2 (File Modification)\obj\Debug\net7.0\MYRIDE_HW_2 (File Modification).genruntimeconfig.cache
+D:\BscsPUCIT\BSCS 6th Semester\Web Engineering\HomeWorks\MYRIDE_HW_2 (File Modification)\MYRIDE_HW_2 (File Modification)\obj\Debug\net7.0\ref\MYRIDE_HW_2 (File Modification).dll
